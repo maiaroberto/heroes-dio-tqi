@@ -1,7 +1,11 @@
 # heroes-dio-tqi
-API - Spring Webflux - Criando Gerenciador de Herois  para o BootCamp da Dio-TqI
+API - Spring Webflux - Criando Gerenciador de Herois da Marvel e da DC em uma API reativa com Spring Boot
+para o BootCamp da Dio-TqI
 
-Stack utilizada
+Utilizada por empresas como Netflix e Pivotal, junto com a library reativa Reactor que atualmente é mantida pela VmWare. Além disso, usamos o banco DynamoDb localmente para armazenar nossos dados e demonstrar como realizar testes unitários da API com Junit e como gerar documentações simples por meio do Postman e também do Swagger.
+
+#Stack utilizada#
+
 Java8
 spring webflux
 Spring data
